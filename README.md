@@ -6,8 +6,8 @@ Link to the live site: https://inesr.github.io/EDX_DataVis/
 
 This is were my peer review exercises from the Data Visualization for All Course (EDx/TrinityX: T005x) are published.
 
-</>
-</>
+<>
+<//>
 
 <b> Peer Review #2 Exercise: Share your Modified Leaflet and Highcharts Templates for Peer Review </b>
 
