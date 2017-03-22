@@ -9,13 +9,15 @@ This is were my peer review exercises from the Data Visualization for All Course
 
 Peer Review #2 Exercise: Share your Modified Leaflet and Highcharts Templates for Peer Review
 
-1. Leaflet map
+ 1. Leaflet map
 
 <iframe src=”https://inesr.github.io/leaflet-map-simple” width=”90%” height=350></iframe>
 
-2. Highcharts scatter chart
+
+ 2. Highcharts scatter chart
 
  <iframe src=”https://inesr.github.io/highcharts-scatter-csv” width=”90%” height=350></iframe>
+ 
 
 
 Peer Review #1 Exercise: Create, Embed, and Share your Chart and Data Story
