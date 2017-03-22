@@ -11,12 +11,12 @@ Peer Review #2 Exercise: Share your Modified Leaflet and Highcharts Templates fo
 
  1. Leaflet map
 
-<iframe src="https://inesr.github.io/leaflet-map-simple" width="90%" height=350></iframe>
+<iframe src="https://inesr.github.io/leaflet-map-simple" width="90%" height="350"></iframe>
 
 
  2. Highcharts scatter chart
 
- <iframe src="https://inesr.github.io/highcharts-scatter-csv" width="90%" height=350></iframe>
+ <iframe src="https://inesr.github.io/highcharts-scatter-csv" width="90%" height="350"></iframe>
  
 
 
