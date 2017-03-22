@@ -18,7 +18,7 @@ Peer Review #2 Exercise: Share your Modified Leaflet and Highcharts Templates fo
 
  <iframe src="https://inesr.github.io/highcharts-scatter-csv" width="90%" height="350"></iframe>
  
-
+<//>
 
 Peer Review #1 Exercise: Create, Embed, and Share your Chart and Data Story
 
