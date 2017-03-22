@@ -7,7 +7,7 @@ Updated on 22nd March 2017.
 This is were my peer review exercises from the Data Visualization for All Course (EDx/TrinityX: T005x) are published.
 
 
-Peer Review #2 Exercise: Share your Modified Leaflet and Highcharts Templates for Peer Review
+<b> Peer Review #2 Exercise: Share your Modified Leaflet and Highcharts Templates for Peer Review </b>
 
  1. Leaflet map
 
